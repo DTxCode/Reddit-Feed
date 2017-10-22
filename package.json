@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "mocha --recursive"
   },
   "author": "",
@@ -16,5 +17,8 @@
     "async": "^2.5.0",
     "body-parser": "^1.18.2",
     "express": "^4.16.2"
+  },
+  "engines": {
+    "node": "6.10.1"
   }
 }
