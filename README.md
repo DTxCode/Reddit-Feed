@@ -10,6 +10,13 @@ Just clone the repo and run the following commands:
 
 The server will now be running on port 3000.
 
+You can also find the app in the cloud at
+
+__https://shrouded-cliffs-10191.herokuapp.com/__
+
+Be sure to follow the paths specified below.
+
+
 ## API Documentation
 Currently, the API supports the following:
 
